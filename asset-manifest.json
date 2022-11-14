@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pratyush-16.github.io/csb-xzgj9f/static/css/main.924cdefb.chunk.css",
+    "main.js": "https://pratyush-16.github.io/csb-xzgj9f/static/js/main.cf159ac8.chunk.js",
+    "main.js.map": "https://pratyush-16.github.io/csb-xzgj9f/static/js/main.cf159ac8.chunk.js.map",
+    "runtime-main.js": "https://pratyush-16.github.io/csb-xzgj9f/static/js/runtime-main.cca2fdbe.js",
+    "runtime-main.js.map": "https://pratyush-16.github.io/csb-xzgj9f/static/js/runtime-main.cca2fdbe.js.map",
+    "static/js/2.babd5f4b.chunk.js": "https://pratyush-16.github.io/csb-xzgj9f/static/js/2.babd5f4b.chunk.js",
+    "static/js/2.babd5f4b.chunk.js.map": "https://pratyush-16.github.io/csb-xzgj9f/static/js/2.babd5f4b.chunk.js.map",
+    "index.html": "https://pratyush-16.github.io/csb-xzgj9f/index.html",
+    "static/css/main.924cdefb.chunk.css.map": "https://pratyush-16.github.io/csb-xzgj9f/static/css/main.924cdefb.chunk.css.map",
+    "static/js/2.babd5f4b.chunk.js.LICENSE.txt": "https://pratyush-16.github.io/csb-xzgj9f/static/js/2.babd5f4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cca2fdbe.js",
+    "static/js/2.babd5f4b.chunk.js",
+    "static/css/main.924cdefb.chunk.css",
+    "static/js/main.cf159ac8.chunk.js"
+  ]
+}
